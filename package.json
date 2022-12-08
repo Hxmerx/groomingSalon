@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "groomingsalon",
+  "version": "1.0.0",
+  "main": "regForm.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jasmine": "^4.5.0",
+    "prettier": "^2.8.1"
+  }
+}
